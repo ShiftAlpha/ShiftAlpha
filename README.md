@@ -1,4 +1,4 @@
-<img src="https://github.com/ShiftAlpha/ShiftAlpha/blob/main/header.png" alt="">
+<img src="" alt="">
 
 <!--
 **ShiftAlpha/ShiftAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
