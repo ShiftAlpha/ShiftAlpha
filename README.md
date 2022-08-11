@@ -99,7 +99,7 @@ Hobbies: ["Gym", "Tennis", "Football", "Chess", "Reading"]
 <h2> My GitHub History!</h2>
 <a href="https://github.com/ShiftAlpha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShiftAlpha&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHiftAlpha&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHiftAlpha&theme=dark&layout=compact" />
 </a>
 <!--
 **ShiftAlpha/ShiftAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
