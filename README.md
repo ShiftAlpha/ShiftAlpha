@@ -18,7 +18,7 @@
 
 ```yaml
 - Dhirav Rana
-  - DevOps | Web3 | Flutter 
+  - DevOps | Web3 | Flutter | Machine Learning
   
 Education:
   [
